@@ -1,0 +1,14 @@
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\bin\Debug\net9.0\AdvancedLINQ.exe
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\bin\Debug\net9.0\AdvancedLINQ.deps.json
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\bin\Debug\net9.0\AdvancedLINQ.runtimeconfig.json
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\bin\Debug\net9.0\AdvancedLINQ.dll
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\bin\Debug\net9.0\AdvancedLINQ.pdb
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\AdvancedLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\AdvancedLINQ.AssemblyInfoInputs.cache
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\AdvancedLINQ.AssemblyInfo.cs
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\AdvancedLINQ.csproj.CoreCompileInputs.cache
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\AdvancedLINQ.dll
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\refint\AdvancedLINQ.dll
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\AdvancedLINQ.pdb
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\AdvancedLINQ.genruntimeconfig.cache
+D:\Workspace\Amdaris\AdvancedLINQ\AdvancedLINQ\obj\Debug\net9.0\ref\AdvancedLINQ.dll
